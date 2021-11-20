@@ -3,7 +3,7 @@
 ## Instructions:
 
 CLICK HERE TO PLAY THE GAME!  
-[https://kovaceva11.github.io/Coding-Quiz-Game/](www.github.com)
+https://kovaceva11.github.io/Coding-Quiz-Game/
 
 
 
