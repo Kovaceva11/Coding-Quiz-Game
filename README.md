@@ -14,10 +14,10 @@ Once you click Play, the game and the countdown timer will begin. The player is 
 Good luck, and have FUN!
 
 # Start Page
-![The code quiz game screen](./assets/images/homepage.png)
+![The code quiz game screen](./assets/images/Homepage.png)
 
 # Game Page
-![The code quiz game screen](./assets/images/gamepage.png)
+![The code quiz game screen](./assets/images/Gamepage.png)
 
 # End Page
 ![The code quiz game screen](./assets/images/highscorepage.png)
