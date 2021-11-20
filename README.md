@@ -33,9 +33,14 @@ Font Awesome [https://fontawesome.com/](www.fontawesome.com)
 > **Icon Package**: Free to use, no license required icon css styling package. Reference [./assets/css/all.css]
 
 Sarah Labrot: [https://github.com/SarahLabrotLientz](www.github.com)
+>Thanks for the emotional support and debugging fun.
 
 Alex Kang: [https://github.com/mkang987/](www.github.com)
+>Assistance with the timer
+
+Brian Design: [https://www.youtube.com/watch?v=f4fB9Xg2JEY](www.youtube.com)
+>For the great tutorial
 
 # The Code
 Click here to view the Github Repo for this Javascript Game! 
-[https://github.com/Kovaceva11/Coding-Quiz-Game](The Github Repo)
+[https://github.com/Kovaceva11/Coding-Quiz-Game](www.github.com)
