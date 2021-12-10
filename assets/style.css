@@ -243,4 +243,13 @@ body {
   .choice-container {
     min-width: 40rem;
   }
+
+  body {
+    background-image: url(./images/quiz_game_background.jpg); 
+    background-size: cover; 
+    background-position: center center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed
+  }
+    
 }

@@ -32,12 +32,6 @@ MDN Web Docs [https://developer.mozilla.org/en-US/](Developer.Mozilla.Org)
 Font Awesome [https://fontawesome.com/](www.fontawesome.com)
 > **Icon Package**: Free to use, no license required icon css styling package. Reference [./assets/css/all.css]
 
-Sarah Labrot: [https://github.com/SarahLabrotLientz](www.github.com)
->Thanks for the emotional support and debugging fun.
-
-Alex Kang: [https://github.com/mkang987/](www.github.com)
->Assistance with the timer
-
 Brian Design: [https://www.youtube.com/watch?v=f4fB9Xg2JEY](www.youtube.com)
 >For the great tutorial
 
